@@ -1,0 +1,22 @@
+
+.first{
+
+    border-radius: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 20px auto;
+    border-color: teal;
+    border-style: solid;
+    color: chocolate;
+    text-align: justify;
+    text-decoration: wavy;
+    text-shadow: 5px;
+    width: 50%;
+   
+    
+}
+div{
+    display: flex; 
+  
+
+}
